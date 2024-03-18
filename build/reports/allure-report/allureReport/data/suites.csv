@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 14 12:36:20 MSK 2024","Thu Mar 14 12:36:22 MSK 2024","2059","","ozonSearch.SearchTest","","ozonSearch.SearchTest","photoSearchNoAuthorizedUser","photoSearchNoAuthorizedUser()",""
+"passed","Thu Mar 14 12:36:22 MSK 2024","Thu Mar 14 12:36:24 MSK 2024","1368","","ozonSearch.SearchTest","","ozonSearch.SearchTest","firstSearchNoAuthorizedUser","firstSearchNoAuthorizedUser()",""
+"passed","Thu Mar 14 12:36:14 MSK 2024","Thu Mar 14 12:36:20 MSK 2024","6110","","ozonSearch.SearchTest","","ozonSearch.SearchTest","cleanSearchNoAuthorizedUser","cleanSearchNoAuthorizedUser()",""
+"passed","Thu Mar 14 08:05:21 MSK 2024","Thu Mar 14 08:05:30 MSK 2024","9187","","ozonSearch.SearchTest","","ozonSearch.SearchTest","firstSearchNoAuthorizeUser","firstSearchNoAuthorizeUser()",""
